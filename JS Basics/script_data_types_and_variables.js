@@ -2,19 +2,19 @@
     Variables and Datatypes
 */
 
-/*
-//console.log("Hello World!!!");
+
+console.log("Hello World!!!");
 var firstName = 'Utsav Akash';
 console.log(firstName);
 var lastName = 'Naskar';
 var age = 21;
 var fullAge = true;
-//console.log(fullAge);
+console.log(fullAge);
 var job;
-//console.log(job);
+console.log(job);
 job = 'Teacher';
 console.log(job);
-*/
+
 
 /*
     Variable mutation and type coercion
@@ -39,19 +39,3 @@ alert(firstName+ ' is a ' + age + ' year old ' + job + '. Is he married? ' + isM
 
 var lastName = prompt('What is his last name?');
 console.log(firstName + ' ' +lastName);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
