@@ -15,7 +15,6 @@ console.log(job);
 job = 'Teacher';
 console.log(job);
 
-
 /*
     Variable mutation and type coercion
 */
