@@ -2,7 +2,7 @@
 
 /*
 ***** Math Operators ****
-
+*/
 var yearUtsav= 2020 - 21;
 console.log(yearUtsav);
 
@@ -23,11 +23,10 @@ console.log(year + 2);
 console.log(year * 2);
 console.log(year / 10);
 
-*/
 
 /*
 **** Logical Operator ****
-
+*/
 var ageUtsav, ageBiswa;
 ageUtsav = 20;
 ageBiswa = 24;
@@ -36,23 +35,21 @@ console.log(utsavOlder);
 var biswaOlder = ageUtsav < ageBiswa;
 console.log(biswaOlder);
 
-*/
 
 /*
 **** typeof operator ****
-
+*/
 var year = 2020, age;
 console.log(typeof(year));
 console.log(typeof(10 > 20));
 console.log(typeof('hello'));
 console.log(typeof(age));
 
-*/
 
 /*
 
 *** operator precedence & associativity ***
-
+*/
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 //multiple operators
@@ -87,30 +84,3 @@ console.log(x);
 x++
 y--
 console.log(x, y);
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
